@@ -1,0 +1,27 @@
+body {
+    background: black;
+    color: white;
+    
+}
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+    border: 1px solid white;
+    
+}
+div{
+   text-align: center;
+   align-items: center;
+}
+h1{
+    color:yellow
+}
+fieldset{
+    border-radius: 20px;
+    background:#0081ff79;
+    
+}
+.find{
+    background: url('background.jpg');
+}

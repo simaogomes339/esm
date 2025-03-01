@@ -1,0 +1,77 @@
+h1{
+    text-align: center;
+    background: yellow;
+    border: 2px solid #00ffd556;
+    border-radius: 20px;
+    color: orangered;
+}
+.fundo{
+    background: url('background.jpg');
+}
+body{
+    background: black;
+}
+.go{
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+.vila img{
+        width: 80px;
+        height: 110px;
+        border-radius:20px;
+        text-align: center;
+        align-items: center;
+       
+    }
+    .yamal{
+      
+        
+    }
+    h4{
+        color: white;
+    }
+    .luz{
+      
+    }
+    .other{
+        
+     
+    }
+    a{
+        text-decoration: none;
+    }
+    .container{
+        padding:0 50px ;
+        text-align:center;
+        align-items:center;
+        font-weight: bold;
+       
+    }
+    fieldset{
+        border-radius: 20px;
+        background: #0081ff79;
+    }
+    h2{
+        color: green;
+    }
+    header{
+        background: #00ffd556;
+        border-radius: 20px;
+    }
+    a{
+        text-decoration: none;
+        color: red;
+    }
+    h2{
+        color: white;
+        text-align: center;
+    }
+    h3{
+        color: greenyellow;
+        text-align: center;
+    }
+    .visible{
+        background: #002cf6a5;
+        border-radius:20px ;
+    }
